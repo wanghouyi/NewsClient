@@ -1,1 +1,2 @@
 # NewsClient
+该新闻客户端记以自己从0到1的半年Android学习之旅
